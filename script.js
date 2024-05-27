@@ -1,6 +1,4 @@
-// Created by Be Alone😎
 
-//created by Be Alone😎
 
 function fun(){
     Swal.fire("Log in successfull");
